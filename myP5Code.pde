@@ -11,7 +11,9 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+  ellipse(150,260,300,270);//orangecircle
+  rect(160,0,70,170);
+  triangle(200,150,150,194,256,194);
 
   
 
