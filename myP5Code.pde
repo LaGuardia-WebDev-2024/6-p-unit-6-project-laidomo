@@ -11,10 +11,11 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  ellipse(199,270,299,70);//eggwhite
-  ellipse(320,240,50,20);//arm
-  ellipse(196,190,270,160);
-  ellipse(220,240,50,20);//arm
+  ellipse(199,220,420,340);//head
+  triangle(27,21,16,130,100,73);//leftear
+  triangle();//rightear
+  ellipse(1100,250,50,70)
+  
   
   
 
